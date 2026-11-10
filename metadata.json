@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Academy",
+  "description": "Production-grade EdTech learning platform with AI-guided classrooms, automated quiz grading, cryptographic certificates, and instructor analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
